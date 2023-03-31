@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://i.ibb.co/kDfPYDW/Nordstone-Assignment-By-Soumili.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
