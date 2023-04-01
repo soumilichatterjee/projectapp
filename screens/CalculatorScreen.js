@@ -72,7 +72,7 @@ function CalculatorScreen({ navigation }) {
                   : styles.optionText
               }
             >
-              Addition  +
+              Addition +
             </Text>
           </TouchableOpacity>
           <TouchableOpacity
