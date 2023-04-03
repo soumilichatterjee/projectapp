@@ -15,6 +15,7 @@
     "@react-native-community/push-notification-ios": "^1.10.1",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/stack": "^6.3.16",
+    "abortcontroller-polyfill": "^1.7.5",
     "expo": "~48.0.9",
     "expo-file-system": "~15.2.2",
     "expo-font": "^11.1.1",
@@ -37,5 +38,6 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+
+  "private": false
 }

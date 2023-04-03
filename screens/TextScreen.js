@@ -1,9 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { View } from 'react-native';
-// import Tasks from '../components/Tasks/Tasks';
-// import NewTask from '../components/NewTask/NewTask';
-import Tasks from './AddingText/Tasks/Tasks';
-import NewTask from './AddingText/NewTask/NewTask'
+
+import Tasks from './AddingText/Tasks/Tasks.js';
+import NewTask from './AddingText/NewTask/NewTask.js'
 
 function TextScreen() {
   const [isLoading, setIsLoading] = useState(false);

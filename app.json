@@ -2,14 +2,19 @@
   "expo": {
     "name": "projectapp",
     "slug": "projectapp",
+    "description": "Project App",
     "version": "1.0.0",
     "orientation": "portrait",
+    
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "https://i.ibb.co/kDfPYDW/Nordstone-Assignment-By-Soumili.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "updates": {
+"fallbackToCacheTimeout":0
     },
     "assetBundlePatterns": [
       "**/*"
